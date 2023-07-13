@@ -1,0 +1,28 @@
+/
+'5 Met1@MNXC1'.'Reaction1@MNXC1' -5
+'5 Met1@MNXC2'.'Reaction1@MNXC2' -5
+'3 Met2@MNXC1'.'Reaction1@MNXC1' -3
+'3 Met2@MNXC2'.'Reaction1@MNXC2' -3
+'7 Met4@MNXC1'.'Reaction1@MNXC1' -7
+'7 Met4@MNXC2'.'Reaction1@MNXC2' -7
+SMATRIX_IZQ: 'Met5[MNXC1]'.'Reaction2[c]' -3
+SMATRIX_IZQ: 'Met6[MNXC1]'.'Reaction2[c]' -4
+SMATRIX_IZQ: 'Met6[MNXC1]'.'Reaction2[c]' -4
+'4 Met9@MNXC4'.'Reaction3@MNXC4' -4
+'4 Met9@MNXC5'.'Reaction3@MNXC5' -4
+'2 Met10@MNXC4'.'Reaction3@MNXC4' -2
+'2 Met10@MNXC5'.'Reaction3@MNXC5' -2
+'5 Met1@MNXC1'.'Reaction1@MNXC1' -5
+'5 Met1@MNXC2'.'Reaction1@MNXC2' -5
+'3 Met2@MNXC1'.'Reaction1@MNXC1' -3
+'3 Met2@MNXC2'.'Reaction1@MNXC2' -3
+'7 Met4@MNXC1'.'Reaction1@MNXC1' -7
+'7 Met4@MNXC2'.'Reaction1@MNXC2' -7
+SMATRIX_IZQ: 'Met5[MNXC1]'.'Reaction2[c]' -3
+SMATRIX_IZQ: 'Met6[MNXC1]'.'Reaction2[c]' -4
+SMATRIX_IZQ: 'Met6[MNXC1]'.'Reaction2[c]' -4
+'4 Met9@MNXC4'.'Reaction3@MNXC4' -4
+'4 Met9@MNXC5'.'Reaction3@MNXC5' -4
+'2 Met10@MNXC4'.'Reaction3@MNXC4' -2
+'2 Met10@MNXC5'.'Reaction3@MNXC5' -2
+/

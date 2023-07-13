@@ -1,0 +1,12 @@
+/
+'Reaction1@MNXC1'
+'Reaction1@MNXC2'
+'Reaction1@MNXC1'
+'Reaction1@MNXC2'
+'Reaction3@MNXC4'
+'Reaction3@MNXC5'
+'Reaction1@MNXC1'
+'Reaction1@MNXC2'
+'Reaction3@MNXC4'
+'Reaction3@MNXC5'
+/
