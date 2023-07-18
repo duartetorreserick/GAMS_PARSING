@@ -11,12 +11,14 @@
 'Met6[MNXC1]'.'Reaction2[c]' -4
 'Met7[MNXC1]'.'Reaction2[MNXC1]' -1
 'Met8[MNXC1]'.'Reaction2[c]' -4
-'Met9[MNXC4]'.'Reaction3[MNXC4]' -4
+'Met9[MNXC12]'.'Reaction3[MNXC12]' -4
 'Met9[MNXC5]'.'Reaction3[MNXC5]' -4
-'Met10[MNXC4]'.'Reaction3[MNXC4]' -2
+'Met10[MNXC12]'.'Reaction3[MNXC12]' -2
 'Met10[MNXC5]'.'Reaction3[MNXC5]' -2
-'Met11[MNXC4]'.'Reaction3[MNXC4]' -1
+'Met11[MNXC12]'.'Reaction3[MNXC12]' -1
 'Met11[MNXC5]'.'Reaction3[MNXC5]' -1
-'Met12[MNXC4]'.'Reaction3[MNXC4]' -1
+'Met12[MNXC12]'.'Reaction3[MNXC12]' -1
 'Met12[MNXC5]'.'Reaction3[MNXC5]' -1
+'Met9[MNXC1]'.'Reaction4[MNXC1]' -1
+'Met10[MNXC1]'.'Reaction4[MNXC1]' -1
 /

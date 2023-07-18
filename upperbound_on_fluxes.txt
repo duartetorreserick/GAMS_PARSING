@@ -2,6 +2,8 @@
 'Reaction1[MNXC1]' 1000
 'Reaction1[MNXC2]' 1000
 'Reaction2[MNXC1]' 1000
-'Reaction3[MNXC4]' 1000
+'Reaction3[MNXC12]' 1000
 'Reaction3[MNXC5]' 1000
+'Reaction4[MNXC1]' 1000
+'Reaction5[MNXC12]' 1000
 /

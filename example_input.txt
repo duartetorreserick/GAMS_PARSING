@@ -1,3 +1,5 @@
 Reaction1;5 Met1 + 3 Met2 <=> Met3 + 7 Met4;-2.5;MNXC1,MNXC2
 Reaction2;3 Met5 + 4 Met6 -> Met7 + 4 Met8;0;MNXC1
-Reaction3;4 Met9 + 2 Met10 <=> Met11 + Met12;1.8;MNXC4,MNXC5
+Reaction3;4 Met9 + 2 Met10 <=> Met11 + Met12;1.8;MNXC12,MNXC5
+Reaction4; Met9 <=> Met10;0.5;MNXC1
+Reaction5; Met10 -> Met11;0.5;MNXC12
