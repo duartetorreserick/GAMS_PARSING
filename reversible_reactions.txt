@@ -1,7 +1,0 @@
-/
-'Reaction1[MNXC1]'
-'Reaction1[MNXC2]'
-'Reaction3[MNXC12]'
-'Reaction3[MNXC5]'
-'Reaction4[MNXC1]'
-/
